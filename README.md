@@ -1,3 +1,5 @@
+Why forked? Only to control the used version by using "git clone ..." in automatic installation scripts.
+
 # LDAP Authentication module for nginx
 LDAP module for nginx which supports authentication against multiple LDAP servers.
 
